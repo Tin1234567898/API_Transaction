@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "DdY/Sc23Xd1Yv60DGOjaWB4NTozP+c7qHSManWcyOkM=",
+  "Source": "API_Transaction",
+  "BasePath": "_content/API_Transaction",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
